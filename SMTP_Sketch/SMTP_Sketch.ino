@@ -3,7 +3,7 @@
 
 #include <Ethernet.h>
 
-byte mac[] = { 0xDE, 0xAD, 0xBE, 0xAF, 0xCE, 0xDD }; // Ethernet Shield MAC Address
+byte mac[] = { 0x00, 0x04, 0x25, 0xAF, 0xCE, 0xDD }; // Ethernet Shield MAC Address
 byte ip[] = { 192, 168, 1, 3 }; // Ethernet Shield IP Address
 byte server[] = { 98, 136, 86, 109 }; // SMTP Server IP Address
 
